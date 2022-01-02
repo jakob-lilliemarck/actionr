@@ -1,0 +1,20 @@
+{
+  "name": "actionr",
+  "version": "1.0.0",
+  "keywords": [
+    "events",
+    "eventbus",
+    "actions",
+    "dispatch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakob-lilliemarck/actionr.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
