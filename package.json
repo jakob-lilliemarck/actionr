@@ -1,6 +1,6 @@
 {
   "name": "actionr",
-  "description": "A simple lightweight eventbus."
+  "description": "A simple lightweight eventbus.",
   "version": "1.0.2",
   "license": "Apache-2.0",
   "author": "Jakob Lilliemarck",
