@@ -1,15 +1,23 @@
 {
   "name": "actionr",
-  "version": "1.0.1",
+  "description": "A simple lightweight eventbus."
+  "version": "1.0.2",
+  "license": "Apache-2.0",
+  "author": "Jakob Lilliemarck",
   "keywords": [
+    "functional",
     "events",
     "eventbus",
     "actions",
-    "dispatch"
+    "dispatch",
+    "tiny"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jakob-lilliemarck/actionr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jakob-lilliemarck/actionr/issues"
   },
   "scripts": {
     "test": "jest"
